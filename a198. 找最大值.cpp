@@ -1,7 +1,6 @@
 #include <iostream>
-
 using namespace std;
- 
+ //非常抱歉，心力不足，請見諒
 int main()
 {
 	int n,a[10],i;
