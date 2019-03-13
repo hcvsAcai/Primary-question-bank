@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {	
-	
+        int n,a[10],i//宣告一個a陣列，元素量為10。
 	cin>>n;
 	for(i=0;i<n;++i)//將i歸零(陣列從0開始用)，條件為i小於n，此迴圈只會跑到(n-1)，每次迴圈都將i加一。
 		cin>>a[i];//輸入一個索引值為i為的a陣列。
