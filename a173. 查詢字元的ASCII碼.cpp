@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-main ()
+int main ()
 {
   char c;//設定C為字元
   cin>>c;//輸入一個字元
